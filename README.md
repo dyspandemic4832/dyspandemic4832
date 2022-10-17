@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, pr0ramm1g and Server hosting
 - 🌱 I’m currently learning C/C++/C#
 - 💞️ I’m looking to collaborate with friends
-- 📫 How to reach me on Discord (dyspandemic#4832) or Element (comming soon)
+- 📫 You can reach me on Discord (dyspandemic#4832)
 
 <!---
 dyspandemic4832/dyspandemic4832 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
