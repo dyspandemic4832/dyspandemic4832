@@ -2,4 +2,4 @@
 - 👀 I’m interested in gaming, pr0ramm1g and Server hosting
 - 🌱 I’m currently learning C/C++ and python
 - 💞️ I’m looking to collaborate with friends
-- 📫 You can reach me on Discord (dyspandemic#4832)
+- 📫 You can reach me on Discord (dyspandemichashtag4832)
